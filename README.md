@@ -1,4 +1,5 @@
 # quarkus-xml-dsig
+Example repo to reproduce that no debug logs are printed from org.jcp.xml.dsig.internal using Quarkus.
 
 ## Build
 
